@@ -19,8 +19,17 @@ I’m currently working on AEGIS (Active Education Guidance and Intelligent Shie
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jishnu-Bytes/Jishnu-Bytes/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Jishnu-Bytes/Jishnu-Bytes/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jishnu-Bytes/Jishnu-Bytes/tree/master/0002-add-two-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Jishnu-Bytes/Jishnu-Bytes/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Jishnu-Bytes/Jishnu-Bytes/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
