@@ -1,0 +1,24 @@
+#include <stdlib.h>
+#include <string.h>
+
+// 1. The platform's required function must be named exactly 'intToRoman'
+char* intToRoman(int num) {
+    // Allocate memory for the resulting Roman numeral string
+    // 16 bytes is enough for any number up to 3999 (e.g., MMMCMXCIX + null terminator)
+    char* result = (char*)malloc(16 * sizeof(char));
+    result[0] = '\0'; 
+
+    // Mapping arrays for standard values
+    int values[] = {1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1};
+    char* symbols[] = {"M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"};
+
+    // Loop through the values and append symbols
+    for (int i = 0; i < 13; i++) {
+        while (num >= values[i]) {
+            strcat(result, symbols[i]);
+            num -= values[i];
+        }
+    }
+
+    return result;
+}
