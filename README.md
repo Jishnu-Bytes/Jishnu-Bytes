@@ -20,6 +20,7 @@ I’m currently working on AEGIS (Active Education Guidance and Intelligent Shie
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jishnu-Bytes/Jishnu-Bytes/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Jishnu-Bytes/Jishnu-Bytes/tree/master/0013-roman-to-integer) |
+| [007-reverse integer] (https://leetcode.com/problems/reverse-integer/submissions/2064525726) |
 ## Recursion
 |  |
 | ------- |
