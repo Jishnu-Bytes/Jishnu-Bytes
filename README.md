@@ -32,5 +32,5 @@ I’m currently working on AEGIS (Active Education Guidance and Intelligent Shie
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Jishnu-Bytes/Jishnu-Bytes/tree/master/0013-roman-to-integer) |
-https://leetcode.com/problems/longest-common-prefix/submissions/2061868657
+| [longest common prefix](https://leetcode.com/problems/longest-common-prefix/submissions/2061868657)|
 <!---LeetCode Topics End-->
