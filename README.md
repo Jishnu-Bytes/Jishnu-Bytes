@@ -21,6 +21,8 @@ I’m currently working on AEGIS (Active Education Guidance and Intelligent Shie
 | [0002-add-two-numbers](https://github.com/Jishnu-Bytes/Jishnu-Bytes/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Jishnu-Bytes/Jishnu-Bytes/tree/master/0013-roman-to-integer) |
 | [007-reverse integer](https://leetcode.com/problems/reverse-integer/submissions/2064525726) |
+| [0012-integer to roman](https://leetcode.com/problems/integer-to-roman/submissions/2064529280)|
+|[009-palindrome-number](https://leetcode.com/problems/palindrome-number/submissions/2064531171)|
 ## Recursion
 |  |
 | ------- |
