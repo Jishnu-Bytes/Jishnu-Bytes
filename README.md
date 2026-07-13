@@ -15,6 +15,7 @@ I’m currently working on AEGIS (Active Education Guidance and Intelligent Shie
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jishnu-Bytes/Jishnu-Bytes/tree/master/0002-add-two-numbers) |
+|[1291-Sequential Digits](https://leetcode.com/problems/sequential-digits/submissions/2066415885)|
 ## Math
 |  |
 | ------- |
